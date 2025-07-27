@@ -34,13 +34,12 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
 # Technologies & Techniques:
 
-• Transfer Learning
 
-• Data Augmentation
+• Data Augmentation (rotations, flips, zooms etc.)
 
 • Model Optimization (Adagrad, RMSprop, Adam, Adamax, AdamW, Nesterov Momentum etc.)
 
-• Automated Learning Rate Scheduling and Reducing
+• Automated Learning Rate Scheduling and Reducing (ReduceLROnPlateau etc.)
 
 • Training and Evaluation (Accuracy, Precision, Recall, F1-score, Confusion Matrix, Loss and Accuracy curves)
 
