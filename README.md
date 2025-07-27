@@ -6,7 +6,7 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
 ## Core Architectures:
 
-1. ### Multilayer Perceptrons (MLP):
+1. ### Multilayer Perceptrons (MLP)
 
 2. ### Functional API Models:
 
