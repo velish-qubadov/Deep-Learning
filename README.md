@@ -1,1 +1,59 @@
 # Deep-Learning
+# Overview
+A curated collection of Jupyter Notebooks exploring deep learning architectures, training techniques, and practical applications using TensorFlow and Keras.This repository documents my hands-on experiments with deep learning - from fundamental neural networks to advanced computer vision models. Each notebook focuses on specific concepts while maintaining production-quality implementation standards.
+
+# Model Architectures Explored
+
+## Core Architectures:
+
+### Multilayer Perceptrons (MLP)
+
+### Functional API Models:
+
+ • Wide & Deep networks
+
+ • Multi-input/multi-output architectures
+
+ • Custom layer configurations
+
+## Computer Vision:
+
+### From-Scratch CNNs:
+
+ • ResNet34 implementation
+
+ • GoogLeNet/Inception-style
+
+ • Custom convolutional blocks
+
+### Transfer Learning:
+
+ • EfficientNetV2B0 feature extraction
+
+ • Fine-tuning pretrained models
+
+# Technologies & Techniques:
+
+•Transfer Learning
+
+• Data Augmentation
+
+• Model Optimization (Adagrad, RMSprop, Adam, Adamax, AdamW, Nesterov Momentum etc.)
+
+• Automated Learning Rate Scheduling and Reducing
+
+• Training and Evaluation (Accuracy, Precision, Recall, F1-score, Confusion Matrix, Loss and Accuracy curves)
+
+
+# Datasets Used
+In this repository, a variety of datasets were used to explore different types of problems:
+
+-Fashion MNIST 
+
+-10-Class Food Dataset 
+
+-Pizza vs Steak Classifier
+
+-CIFAR-10 
+
+-California Housing dataset
