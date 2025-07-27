@@ -6,9 +6,9 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
 ## Core Architectures:
 
-### Multilayer Perceptrons (MLP)
+1. ### Multilayer Perceptrons (MLP):
 
-### Functional API Models:
+2. ### Functional API Models:
 
  • Wide & Deep networks
 
@@ -18,7 +18,7 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
 ## Computer Vision:
 
-### From-Scratch CNNs:
+1. ### From-Scratch CNNs:
 
  • ResNet34 implementation
 
@@ -26,7 +26,7 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
  • Custom convolutional blocks
 
-### Transfer Learning:
+2. ### Transfer Learning:
 
  • EfficientNetV2B0 feature extraction
 
@@ -34,7 +34,7 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
 # Technologies & Techniques:
 
-•Transfer Learning
+• Transfer Learning
 
 • Data Augmentation
 
@@ -44,16 +44,41 @@ A curated collection of Jupyter Notebooks exploring deep learning architectures,
 
 • Training and Evaluation (Accuracy, Precision, Recall, F1-score, Confusion Matrix, Loss and Accuracy curves)
 
-
 # Datasets Used
+
 In this repository, a variety of datasets were used to explore different types of problems:
 
--Fashion MNIST 
+• Fashion MNIST 
 
--10-Class Food Dataset 
+• 10-Class Food Dataset 
 
--Pizza vs Steak Classifier
+• Pizza vs Steak Classifier
 
--CIFAR-10 
+• CIFAR-10 
 
--California Housing dataset
+• California Housing dataset etc.
+
+**Installation**
+-
+To run the notebooks locally, please follow these steps:
+
+1.Clone the repository
+
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+Or download each notebook file individually from the repository.
+
+2.To run the notebooks:
+
+Open them locally using Jupyter Notebook:
+
+```
+jupyter notebook
+```
+
+Or upload the .ipynb files directly to Google Colab and run them without any setup.
+
+
